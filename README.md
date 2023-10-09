@@ -7,3 +7,5 @@ Now open the terminal in the folder by typing cmd into the location bar at the t
 Compile the code by entering : javac Main.java
 
 Then run the code by entering : java Main
+
+MATRICULATION NUMBER:7219055
